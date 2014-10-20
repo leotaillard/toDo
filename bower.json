@@ -1,0 +1,22 @@
+{
+  "name": "toDo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/leotaillard/toDo",
+  "authors": [
+    "Léo Taillard <leo.taillard@gmail.com>"
+  ],
+  "description": "Just a web app for to do",
+  "main": "css/main.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.7.0",
+    "ember-data": "~0.0.14"
+  }
+}
